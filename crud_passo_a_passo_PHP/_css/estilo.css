@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+form {
+	width: 500px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+input{
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 13pt;
+}
+
+#btn{
+	margin-top: 10px;
+	
+}
+
+input:hover {
+	background-color: #dddddd;
+}
+
+.row {
+	margin: auto;
+	width: 500px;
+	background-color: #dddddd;
+}
+
+table#tabelaspec{
+	border: 1px solid #606060;
+	width: 500px;
+	border-spacing: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table#tabelaspec td{
+	width: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+table#tabelaspec th{
+	background-color: #606060;
+	color: white;
+}
+
+a.btn-edit{
+	border-bottom-color: 1px solid #707070;
+}
